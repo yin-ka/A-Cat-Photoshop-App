@@ -4,5 +4,12 @@ body{
     height: 100%;
     display: flex;
     flex-wrap: wrap;
+
+}
+h1{
+    font-weight: 500;
+    font: 1em sans-serif;
+    font-size: larger;
+    display: block;
     
 }
